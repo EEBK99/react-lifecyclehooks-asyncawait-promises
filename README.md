@@ -6,7 +6,7 @@
 
 ## componentWillUnmount
 
-# Asynchronous JavaScrit
+# Asynchronous JavaScript
 
 ## callbacks
 
